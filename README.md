@@ -6,6 +6,7 @@ Originally designd for the Linux Kernel Provenance 2.6.32
 
 1. crypto/dsa.c
 2. include/linux/dsa.h
+3. crypto/mpi/mpi-pow.c (patch)
 
 Took a great reference from David Härdeman's DSA patch
 
